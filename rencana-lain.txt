@@ -1,5 +1,7 @@
 1. Belajar framework js
    - Angular
+   - react native
    - vue
+   - lazzy
    - react native
 2. Belajar python
