@@ -3,4 +3,5 @@
    - react native
    - vue
    - lazzy
+   - react native
 2. Belajar python
