@@ -1,3 +1,5 @@
-1. hhmm
-2. lorem ipsum
-3. dolor
+1. Belajar framework js
+   - Angular
+   - react
+   - vue
+2. Belajar python
