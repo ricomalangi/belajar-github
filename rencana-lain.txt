@@ -3,4 +3,5 @@
    - react native
    - vue
 2. Belajar python
-   - buat aplikasi sederhana
+   - buat AI
+   - buat bot
