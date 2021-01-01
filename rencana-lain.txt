@@ -1,0 +1,5 @@
+1. Belajar framework js
+   - Angular
+   - react
+   - vue
+2. Belajar python
