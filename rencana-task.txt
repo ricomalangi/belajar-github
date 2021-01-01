@@ -1,0 +1,3 @@
+Rencana belajar di tahun 2021:
+1. Selesaikan belajar oop php
+2. Belajar js
