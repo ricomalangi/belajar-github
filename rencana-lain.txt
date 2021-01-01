@@ -2,7 +2,6 @@
    - Angular
    - react native
    - vue
-   - react native
 2. Belajar python
    - buat AI
    - buat bot
