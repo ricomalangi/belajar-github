@@ -2,4 +2,5 @@
    - Angular
    - react native
    - vue
+   - lazzy
 2. Belajar python
